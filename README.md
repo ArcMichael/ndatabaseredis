@@ -14,3 +14,4 @@ Could not connect to Redis at IP No route to host
 解决办法:
 
 sudo iptables -F
+service docker restart
